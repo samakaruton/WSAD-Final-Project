@@ -256,6 +256,6 @@ This project is developed for educational purposes as part of the Web System Ana
 
 **Version**: 1.0  
 **Last Updated**: December 2025  
-**Developed By**: [Your Group Name]  
+**Developed By**: WSAD Group 3 
 
 For questions or support, contact your system administrator.
