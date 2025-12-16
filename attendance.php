@@ -414,7 +414,7 @@ include 'includes/header.php';
                     <div class="mb-3">
                         <label class="form-label">Ministry</label>
                         <select class="form-select" name="ministry_id">
-                            <option value="">General Church Service</option>
+                    
                             <?php 
                             mysqli_data_seek($ministries, 0);
                             while ($ministry = mysqli_fetch_assoc($ministries)): 
